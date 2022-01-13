@@ -1,0 +1,8 @@
+SNR,Modulation order,Modulation
+4,0,NA
+8,1,BPSK
+8,2,QPSK
+10,2,QPSK
+12,3,8-QAM
+14,4,16-QAM
+16,5,32-QAM
